@@ -1,1 +1,22 @@
-MarkDown_2 
+MarkDown_2  
+줄바꿈 2번째 방법 마지막줄에 띄어쓰기 3번을 하면된다
+
+
+참조링크<형식>
+[link keyword][id]
+[id]: URL "Optional Title here"
+
+참조링크<code>
+Link: [Google][googlelink]
+[googlelink]: https://google.com "Go google"
+
+
+외부링크
+사용문법: [Title](link)
+적용예: [Google](https://google.com, "google link")
+
+
+
+
+
+출처 및 참고 https://gist.github.com/ihoneymon/652be052a0727ad59601
